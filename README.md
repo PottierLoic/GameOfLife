@@ -5,7 +5,7 @@ Conway's game of life written in python
 # Requirements
 
 Needed :  
-* Matplotlab
+* Matplotlib
 * Numpy  
 
 # Infos  
